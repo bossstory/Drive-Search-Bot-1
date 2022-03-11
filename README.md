@@ -1,6 +1,6 @@
 ## Deploying on Heroku
 ### Auto
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/Drive-Search-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bossstory/Drive-Search-Bot-1.git)
 
 # What is this repo about?
 This is a telegram bot writen in python for searching files in Drive.
@@ -9,7 +9,7 @@ This is a telegram bot writen in python for searching files in Drive.
 
 - Clone this repo:
 ```
-git clone https://github.com/svr666/search-bot search-bot/
+git clone https://github.com/bossstory/Drive-Search-Bot-1 search-bot/
 cd search-bot
 ```
 
